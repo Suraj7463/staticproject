@@ -1,0 +1,21 @@
+div {
+    width: fit-content;
+    height: fit-content;
+    background: #eeeBaa;
+    margin-left: 400px;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+#button {
+    color: red;
+    background-color: blue;
+    margin-left: 400px;
+}
+
+#button:hover {
+    background-color: white;
+}
